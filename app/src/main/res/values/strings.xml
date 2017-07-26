@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Exercise_5</string>
-    <string name="btn_lable">Go To Sum Activity</string>
+    <string name="btn_title_no_data">Go To Sum Activity No Data</string>
+    <string name="btn_title_with_data">Go To Sum Activity With Data</string>
+    <string name="title_x">X</string>
+    <string name="title_y">Y</string>
 </resources>
